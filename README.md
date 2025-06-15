@@ -1,6 +1,8 @@
 # Gmail AI Agent 🤖📧
 
 An intelligent Gmail automation agent that processes unread emails and generates AI-powered responses using Groq's LLM API. The agent can automatically reply to emails or save responses as drafts for manual review.
+![Gmail-AI_Agent](https://github.com/user-attachments/assets/280e65d5-0fd8-4563-acb6-e855511582dc)
+
 
 ## 🌟 Features
 
@@ -27,8 +29,8 @@ An intelligent Gmail automation agent that processes unread emails and generates
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gmail-ai-agent.git
-cd gmail-ai-agent
+git clone https://github.com/Vinay9911/Gmail-AI-Agent.git
+cd Gmail-AI-Agent
 ```
 
 ### 2. Install Dependencies
@@ -200,7 +202,7 @@ The agent uses a two-step AI process:
 ## 📁 Project Structure
 
 ```
-gmail-ai-agent/
+Gmail-AI-Agent/
 ├── src/
 │   ├── __init__.py
 │   ├── main.py              # Main application entry point
